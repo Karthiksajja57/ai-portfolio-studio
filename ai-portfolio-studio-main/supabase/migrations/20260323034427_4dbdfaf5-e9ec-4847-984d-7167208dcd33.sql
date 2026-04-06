@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX IF NOT EXISTS portfolios_public_url_slug_unique ON public.portfolios (public_url_slug) WHERE public_url_slug IS NOT NULL;
