@@ -58,4 +58,3 @@ Vercel Routing: Implemented vercel.json rewrite rules to handle Single Page Appl
 
 Database Alignment: Ensured synchronized schema mapping between frontend routing parameters and Supabase backend queries to handle public portfolio delivery.
 
-Developed by S Dinesh Karthik.
